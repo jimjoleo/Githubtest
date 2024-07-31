@@ -73,16 +73,32 @@ Project:
    Uri: 'urn:FTOptix:System:Net'
    Module: FTOptix.System.Net
    Version: 2.0
+  19:
+   Uri: 'urn:FTOptix:CommunicationDriver'
+   Module: FTOptix.CommunicationDriver
+   Version: 2.1
+  20:
+   Uri: 'urn:FTOptix:CommunicationDriver:Net'
+   Module: FTOptix.CommunicationDriver.Net
+   Version: 2.1
+  21:
+   Uri: 'urn:FTOptix:S7TiaProfinet'
+   Module: FTOptix.S7TiaProfinet
+   Version: 1.1
+  22:
+   Uri: 'urn:FTOptix:S7TiaProfinet:Net'
+   Module: FTOptix.S7TiaProfinet.Net
+   Version: 1.1
  Statistics:
-  TotalNodeCount: 1809
-  Objects: 335
+  TotalNodeCount: 1850
+  Objects: 344
   ObjectTypes: 18
-  Variables: 1446
+  Variables: 1478
   VariableTypes: 0
   DataTypes: 0
   Methods: 10
-  References: 16
+  References: 22
   ReferenceTypes: 0
-  Files: 27
+  Files: 32
  Nodes:
  - File: Nodes/Githubtest.yaml

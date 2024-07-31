@@ -3,6 +3,8 @@ using UAManagedCore;
 using FTOptix.NetLogic;
 using FTOptix.UI;
 using FTOptix.System;
+using FTOptix.S7TiaProfinet;
+using FTOptix.CommunicationDriver;
 #endregion
 
 public class RequestAssistanceSwitchLogic : BaseNetLogic

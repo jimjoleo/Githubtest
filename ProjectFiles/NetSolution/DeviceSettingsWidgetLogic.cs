@@ -2,6 +2,8 @@
 using UAManagedCore;
 using FTOptix.HMIProject;
 using FTOptix.NetLogic;
+using FTOptix.S7TiaProfinet;
+using FTOptix.CommunicationDriver;
 #endregion
 
 public class DeviceSettingsWidgetLogic : BaseNetLogic
